@@ -1,2 +1,5 @@
 # hide all pycharm related files
 .idea/
+.Rhistory
+.ipynb_checkpoints/
+__pycache__/
